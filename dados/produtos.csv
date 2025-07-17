@@ -52,7 +52,7 @@ ID_PRODUTO,NOME,MARCA,CATEGORIA,DATA_CADASTRO,DESCRICAO_PRODUTO,PRECO,ESTOQUE
 60,Placa de Vídeo Radeon RX 6600,AMD,Hardware,2023-03-18,Placa de vídeo para jogos 1080p,4299.00,12
 61,Smartphone Xiaomi Redmi Note 11,Xiaomi,Celular,2023-02-15,Smartphone com boa câmera e bateria,1599.00,45
 62,Notebook Asus VivoBook,Asus,Notebook,2022-06-20,Notebook fino e leve para uso diário,3299.00,18
-63,Monitor BenQ 27",BenQ,Monitor,2021-11-05,Monitor com tecnologia Eye-Care,1999.00,22
+63,"Monitor BenQ 27"",BenQ,Monitor,2021-11-05,Monitor com tecnologia Eye-Care,1999.00,22
 64,Mouse Gamer HyperX Pulsefire,HyperX,Periférico,2022-01-12,Mouse gamer ergonômico e preciso,399.00,40
 65,Teclado Mecânico Razer BlackWidow,Razer,Periférico,2020-08-23,Teclado mecânico com iluminação RGB,1099.00,28
 66,Fone Bluetooth Jabra Elite 75t,Jabra,Audio,2021-09-10,Fones sem fio com som cristalino,899.00,35
@@ -63,7 +63,7 @@ ID_PRODUTO,NOME,MARCA,CATEGORIA,DATA_CADASTRO,DESCRICAO_PRODUTO,PRECO,ESTOQUE
 71,SSD Samsung 970 EVO 1TB,Samsung,Armazenamento,2021-07-01,SSD NVMe rápido para PC,899.00,42
 72,HD Externo WD 5TB,Western Digital,Armazenamento,2022-08-10,HD portátil com alta capacidade,1099.00,15
 73,Cadeira Gamer Noblechairs, Noblechairs,Periférico,2023-01-22,Cadeira gamer premium com couro sintético,2699.00,12
-74,Monitor LG 32",LG,Monitor,2022-09-18,Monitor grande com alta resolução,2899.00,20
+74,"Monitor LG 32"",LG,Monitor,2022-09-18,Monitor grande com alta resolução,2899.00,20
 75,Notebook Microsoft Surface Pro,Microsoft,Notebook,2021-11-30,Notebook conversível para tablet,7599.00,9
 76,Teclado Sem Fio Logitech K380,Logitech,Periférico,2020-10-10,Teclado compacto para múltiplos dispositivos,299.00,35
 77,Headset Turtle Beach Recon,Turtle Beach,Audio,2021-06-20,Headset gamer com som surround,599.00,28
