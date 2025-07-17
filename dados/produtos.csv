@@ -21,7 +21,7 @@ ID_PRODUTO,NOME,MARCA,CATEGORIA,DATA_CADASTRO,DESCRICAO_PRODUTO,PRECO,ESTOQUE
 20,Placa de Vídeo RTX 3060,NVIDIA,Hardware,2023-02-28,Placa de vídeo para jogos e edição,4799.00,7
 21,Smartphone Pixel 6,Google,Celular,2022-01-15,Smartphone com câmera avançada e Android puro,3799.00,40
 22,Notebook Dell XPS 13,Dell,Notebook,2023-04-10,Notebook ultrafino com processador Intel i7,7899.00,12
-23,"Monitor Ultrawide 34""",LG,Monitor,2021-08-22,Monitor ultrawide para produtividade e games,3299.90,25
+23,Monitor Ultrawide 34,LG,Monitor,2021-08-22,Monitor ultrawide para produtividade e games,3299.90,25
 24,Mouse Gamer Razer DeathAdder,Razer,Periférico,2022-03-14,Mouse gamer com alta precisão e RGB,499.90,50
 25,Teclado Mecânico Logitech G512,Logitech,Periférico,2020-12-01,Teclado mecânico com switches Romer-G,799.00,35
 26,Fone Bluetooth AirPods Pro,Apple,Audio,2021-07-20,Fones sem fio com cancelamento de ruído,1799.00,28
@@ -32,10 +32,10 @@ ID_PRODUTO,NOME,MARCA,CATEGORIA,DATA_CADASTRO,DESCRICAO_PRODUTO,PRECO,ESTOQUE
 31,SSD NVMe 2TB,Samsung,Armazenamento,2022-09-18,SSD rápido para jogos e edição de vídeo,1699.00,33
 32,HD Externo 4TB,Seagate,Armazenamento,2021-06-11,HD portátil com alta capacidade,849.99,18
 33,Cadeira Gamer Secretlab,Secretlab,Periférico,2023-03-05,Cadeira gamer premium com ajuste ergonômico,2299.90,15
-34,"Monitor 27"" 4K Dell",Dell,Monitor,2022-07-08,Monitor 4K para profissionais de criação,3599.00,14
+34,Monitor 27 4K Dell,Dell,Monitor,2022-07-08,Monitor 4K para profissionais de criação,3599.00,14
 35,Notebook HP Pavilion,HP,Notebook,2021-02-25,Notebook para uso geral com bom desempenho,3999.00,20
 36,Teclado Sem Fio Microsoft,Microsoft,Periférico,2020-10-17,Teclado wireless confortável,499.90,30
-37,Headset JBL Quantum, JBL,Audio,2022-12-12,Headset gamer com som surround,799.00,22
+37,Headset JBL Quantum,JBL,Audio,2022-12-12,Headset gamer com som surround,799.00,22
 38,Webcam Logitech StreamCam,Logitech,Periférico,2021-09-30,Webcam Full HD para streaming,699.90,27
 39,Placa de Vídeo RTX 3070,NVIDIA,Hardware,2023-04-01,Placa de vídeo de alto desempenho,6899.00,5
 40,Smartphone Motorola Edge,Motorola,Celular,2021-06-15,Smartphone com tela OLED e boa bateria,2999.00,35
@@ -52,7 +52,7 @@ ID_PRODUTO,NOME,MARCA,CATEGORIA,DATA_CADASTRO,DESCRICAO_PRODUTO,PRECO,ESTOQUE
 60,Placa de Vídeo Radeon RX 6600,AMD,Hardware,2023-03-18,Placa de vídeo para jogos 1080p,4299.00,12
 61,Smartphone Xiaomi Redmi Note 11,Xiaomi,Celular,2023-02-15,Smartphone com boa câmera e bateria,1599.00,45
 62,Notebook Asus VivoBook,Asus,Notebook,2022-06-20,Notebook fino e leve para uso diário,3299.00,18
-63,"Monitor BenQ 27"",BenQ,Monitor,2021-11-05,Monitor com tecnologia Eye-Care,1999.00,22
+63,Monitor BenQ 27,BenQ,Monitor,2021-11-05,Monitor com tecnologia Eye-Care,1999.00,22
 64,Mouse Gamer HyperX Pulsefire,HyperX,Periférico,2022-01-12,Mouse gamer ergonômico e preciso,399.00,40
 65,Teclado Mecânico Razer BlackWidow,Razer,Periférico,2020-08-23,Teclado mecânico com iluminação RGB,1099.00,28
 66,Fone Bluetooth Jabra Elite 75t,Jabra,Audio,2021-09-10,Fones sem fio com som cristalino,899.00,35
@@ -62,8 +62,8 @@ ID_PRODUTO,NOME,MARCA,CATEGORIA,DATA_CADASTRO,DESCRICAO_PRODUTO,PRECO,ESTOQUE
 70,Impressora Brother HL-L2350DW,Brother,Impressora,2023-03-15,Impressora laser monocromática,849.00,20
 71,SSD Samsung 970 EVO 1TB,Samsung,Armazenamento,2021-07-01,SSD NVMe rápido para PC,899.00,42
 72,HD Externo WD 5TB,Western Digital,Armazenamento,2022-08-10,HD portátil com alta capacidade,1099.00,15
-73,Cadeira Gamer Noblechairs, Noblechairs,Periférico,2023-01-22,Cadeira gamer premium com couro sintético,2699.00,12
-74,"Monitor LG 32"",LG,Monitor,2022-09-18,Monitor grande com alta resolução,2899.00,20
+73,Cadeira Gamer Noblechairs,Noblechairs,Periférico,2023-01-22,Cadeira gamer premium com couro sintético,2699.00,12
+74,Monitor LG 32,LG,Monitor,2022-09-18,Monitor grande com alta resolução,2899.00,20
 75,Notebook Microsoft Surface Pro,Microsoft,Notebook,2021-11-30,Notebook conversível para tablet,7599.00,9
 76,Teclado Sem Fio Logitech K380,Logitech,Periférico,2020-10-10,Teclado compacto para múltiplos dispositivos,299.00,35
 77,Headset Turtle Beach Recon,Turtle Beach,Audio,2021-06-20,Headset gamer com som surround,599.00,28
