@@ -1,5 +1,4 @@
--- Relação cliente/vendedores
-
+-- Puxa as tabelas para visualização
 
 
 SELECT * FROM TABELA_DE_CLIENTES;
@@ -7,7 +6,6 @@ SELECT * FROM TABELA_DE_VENDEDORES;
 
 
 -- Verifica cliente atendido por vendedor
-
 
 
 SELECT 
@@ -25,7 +23,6 @@ ORDER BY
   
 
 -- Quantos clientes cada vendedor atende
-
 
 
 SELECT 
