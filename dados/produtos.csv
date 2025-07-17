@@ -1,0 +1,72 @@
+ID_PRODUTO,NOME,MARCA,CATEGORIA,DATA_CADASTRO,DESCRICAO_PRODUTO,PRECO,ESTOQUE
+1,Smartphone Galaxy S21,Samsung,Celular,2021-02-15,Smartphone com câmera de 64MP e tela AMOLED,3499.99,50
+2,iPhone 13,Apple,Celular,2021-09-24,Smartphone Apple com processador A15 Bionic,4999.90,30
+3,Notebook Aspire 5,Acer,Notebook,2020-11-10,Notebook com Intel i5 e 8GB RAM,2899.00,20
+4,Monitor LED 24",LG,Monitor,2022-06-05,Monitor LED Full HD 24 polegadas,899.99,40
+5,Mouse MX Master 3,Logitech,Periférico,2021-03-30,Mouse wireless ergonômico com alta precisão,599.90,60
+6,Teclado Mecânico K70,Corsair,Periférico,2021-07-12,Teclado mecânico RGB para gamers,899.50,25
+7,Fone de Ouvido WH-1000XM4,Sony,Audio,2020-08-22,Fone com cancelamento de ruído e bateria longa,1399.00,15
+8,Tablet iPad Air,Apple,Tablet,2022-04-19,Tablet com tela retina e chip A14,4299.00,10
+9,Smartwatch Galaxy Watch4,Samsung,Smartwatch,2021-09-29,Relógio inteligente com monitor cardíaco,1499.00,35
+10,Câmera GoPro Hero9,GoPro,Câmera,2020-10-13,Câmera de ação 5K com estabilização,2499.00,12
+11,Impressora LaserJet Pro,HP,Impressora,2023-01-05,Impressora laser para escritório,799.90,18
+12,SSD 1TB Crucial,Crucial,Armazenamento,2021-12-15,SSD rápido para aumentar a performance,1099.00,50
+13,HD Externo 2TB,Seagate,Armazenamento,2020-07-25,HD portátil com 2TB de capacidade,499.99,40
+14,Cadeira Gamer Ergoposture,DXRacer,Periférico,2022-08-10,Cadeira gamer com suporte lombar,1499.90,22
+15,Monitor Curvo 27",Samsung,Monitor,2023-03-15,Monitor curvo com resolução QHD,2299.00,30
+16,Notebook MacBook Air,Apple,Notebook,2022-11-20,Notebook Apple com chip M2,8599.00,8
+17,Teclado Bluetooth,Kensington,Periférico,2021-06-18,Teclado portátil para múltiplos dispositivos,399.90,45
+18,Headset Gamer HyperX,HyperX,Audio,2021-11-07,Headset com som surround 7.1,699.00,33
+19,Webcam HD 1080p,Logitech,Periférico,2020-05-22,Webcam com microfone embutido,299.90,55
+20,Placa de Vídeo RTX 3060,NVIDIA,Hardware,2023-02-28,Placa de vídeo para jogos e edição,4799.00,7
+21,Smartphone Pixel 6,Google,Celular,2022-01-15,Smartphone com câmera avançada e Android puro,3799.00,40
+22,Notebook Dell XPS 13,Dell,Notebook,2023-04-10,Notebook ultrafino com processador Intel i7,7899.00,12
+23,Monitor Ultrawide 34",LG,Monitor,2021-08-22,Monitor ultrawide para produtividade e games,3299.90,25
+24,Mouse Gamer Razer DeathAdder,Razer,Periférico,2022-03-14,Mouse gamer com alta precisão e RGB,499.90,50
+25,Teclado Mecânico Logitech G512,Logitech,Periférico,2020-12-01,Teclado mecânico com switches Romer-G,799.00,35
+26,Fone Bluetooth AirPods Pro,Apple,Audio,2021-07-20,Fones sem fio com cancelamento de ruído,1799.00,28
+27,Tablet Samsung Galaxy Tab S7,Samsung,Tablet,2021-05-25,Tablet com S-Pen e tela AMOLED,4199.00,15
+28,Smartwatch Apple Watch Series 7,Apple,Smartwatch,2022-10-10,Relógio inteligente com monitor de saúde,2899.00,20
+29,Câmera DSLR Canon EOS Rebel,Canon,Câmera,2020-11-05,Câmera DSLR para fotografia profissional,3299.00,10
+30,Impressora Multifuncional Epson,Epson,Impressora,2023-01-30,Impressora multifuncional para escritório,999.90,22
+31,SSD NVMe 2TB,Samsung,Armazenamento,2022-09-18,SSD rápido para jogos e edição de vídeo,1699.00,33
+32,HD Externo 4TB,Seagate,Armazenamento,2021-06-11,HD portátil com alta capacidade,849.99,18
+33,Cadeira Gamer Secretlab,Secretlab,Periférico,2023-03-05,Cadeira gamer premium com ajuste ergonômico,2299.90,15
+34,Monitor 27" 4K Dell,Dell,Monitor,2022-07-08,Monitor 4K para profissionais de criação,3599.00,14
+35,Notebook HP Pavilion,HP,Notebook,2021-02-25,Notebook para uso geral com bom desempenho,3999.00,20
+36,Teclado Sem Fio Microsoft,Microsoft,Periférico,2020-10-17,Teclado wireless confortável,499.90,30
+37,Headset JBL Quantum, JBL,Audio,2022-12-12,Headset gamer com som surround,799.00,22
+38,Webcam Logitech StreamCam,Logitech,Periférico,2021-09-30,Webcam Full HD para streaming,699.90,27
+39,Placa de Vídeo RTX 3070,NVIDIA,Hardware,2023-04-01,Placa de vídeo de alto desempenho,6899.00,5
+40,Smartphone Motorola Edge,Motorola,Celular,2021-06-15,Smartphone com tela OLED e boa bateria,2999.00,35
+50,Câmera Mirrorless Sony A7 III,Sony,Câmera,2022-11-12,Câmera mirrorless full-frame,7999.00,6
+51,Tablet Amazon Fire HD,Amazon,Tablet,2020-12-05,Tablet acessível para leitura e mídia,999.00,45
+52,Impressora 3D Creality,Creality,Impressora,2023-02-20,Impressora 3D para prototipagem,2399.90,8
+53,SSD Externo Samsung T7,Samsung,Armazenamento,2021-08-30,SSD externo portátil e rápido,799.00,40
+54,Mouse Bluetooth Logitech M720,Logitech,Periférico,2022-04-28,Mouse Bluetooth multi-dispositivo,249.90,55
+55,Teclado Gamer Redragon,Kumara,Periférico,2021-05-16,Teclado mecânico RGB,399.00,40
+56,Fone de Ouvido Beats Studio,Beats,Audio,2020-11-22,Fones com som de alta qualidade,1499.00,18
+57,Notebook Lenovo ThinkPad,Lenovo,Notebook,2022-03-15,Notebook focado em negócios,4599.00,10
+58,Monitor Asus TUF Gaming,Asus,Monitor,2023-01-10,Monitor gamer com taxa de atualização 165Hz,2599.00,20
+59,Headset SteelSeries Arctis,SteelSeries,Audio,2021-07-07,Headset com microfone ClearCast,899.00,25
+60,Placa de Vídeo Radeon RX 6600,AMD,Hardware,2023-03-18,Placa de vídeo para jogos 1080p,4299.00,12
+61,Smartphone Xiaomi Redmi Note 11,Xiaomi,Celular,2023-02-15,Smartphone com boa câmera e bateria,1599.00,45
+62,Notebook Asus VivoBook,Asus,Notebook,2022-06-20,Notebook fino e leve para uso diário,3299.00,18
+63,Monitor BenQ 27",BenQ,Monitor,2021-11-05,Monitor com tecnologia Eye-Care,1999.00,22
+64,Mouse Gamer HyperX Pulsefire,HyperX,Periférico,2022-01-12,Mouse gamer ergonômico e preciso,399.00,40
+65,Teclado Mecânico Razer BlackWidow,Razer,Periférico,2020-08-23,Teclado mecânico com iluminação RGB,1099.00,28
+66,Fone Bluetooth Jabra Elite 75t,Jabra,Audio,2021-09-10,Fones sem fio com som cristalino,899.00,35
+67,Tablet Lenovo Tab P11,Lenovo,Tablet,2022-04-15,Tablet com tela grande e caneta opcional,2199.00,17
+68,Smartwatch Fitbit Versa 3,Fitbit,Smartwatch,2021-12-05,Relógio fitness com GPS integrado,1299.00,26
+69,Câmera GoPro Hero10,GoPro,Câmera,2022-10-10,Câmera de ação com alta resolução,2899.00,11
+70,Impressora Brother HL-L2350DW,Brother,Impressora,2023-03-15,Impressora laser monocromática,849.00,20
+71,SSD Samsung 970 EVO 1TB,Samsung,Armazenamento,2021-07-01,SSD NVMe rápido para PC,899.00,42
+72,HD Externo WD 5TB,Western Digital,Armazenamento,2022-08-10,HD portátil com alta capacidade,1099.00,15
+73,Cadeira Gamer Noblechairs, Noblechairs,Periférico,2023-01-22,Cadeira gamer premium com couro sintético,2699.00,12
+74,Monitor LG 32",LG,Monitor,2022-09-18,Monitor grande com alta resolução,2899.00,20
+75,Notebook Microsoft Surface Pro,Microsoft,Notebook,2021-11-30,Notebook conversível para tablet,7599.00,9
+76,Teclado Sem Fio Logitech K380,Logitech,Periférico,2020-10-10,Teclado compacto para múltiplos dispositivos,299.00,35
+77,Headset Turtle Beach Recon,Turtle Beach,Audio,2021-06-20,Headset gamer com som surround,599.00,28
+78,Webcam Razer Kiyo,Razer,Periférico,2022-05-15,Webcam com anel de luz integrado,799.00,22
+79,Placa de Vídeo RTX 3080,NVIDIA,Hardware,2023-04-01,Placa de vídeo top para gamers,10999.00,4
+80,Smartphone OnePlus 9,OnePlus,Celular,2021-06-15,Smartphone com alta performance e câmera,3999.00,30
