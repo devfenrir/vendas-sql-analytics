@@ -2,7 +2,7 @@ ID_PRODUTO,NOME,MARCA,CATEGORIA,DATA_CADASTRO,DESCRICAO_PRODUTO,PRECO,ESTOQUE
 1,Smartphone Galaxy S21,Samsung,Celular,2021-02-15,Smartphone com câmera de 64MP e tela AMOLED,3499.99,50
 2,iPhone 13,Apple,Celular,2021-09-24,Smartphone Apple com processador A15 Bionic,4999.90,30
 3,Notebook Aspire 5,Acer,Notebook,2020-11-10,Notebook com Intel i5 e 8GB RAM,2899.00,20
-4,Monitor LED 24",LG,Monitor,2022-06-05,Monitor LED Full HD 24 polegadas,899.99,40
+4,Monitor LED 24,LG,Monitor,2022-06-05,Monitor LED Full HD 24 polegadas,899.99,40
 5,Mouse MX Master 3,Logitech,Periférico,2021-03-30,Mouse wireless ergonômico com alta precisão,599.90,60
 6,Teclado Mecânico K70,Corsair,Periférico,2021-07-12,Teclado mecânico RGB para gamers,899.50,25
 7,Fone de Ouvido WH-1000XM4,Sony,Audio,2020-08-22,Fone com cancelamento de ruído e bateria longa,1399.00,15
