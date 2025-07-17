@@ -1,4 +1,4 @@
-ID_CLIENTE, NOME, REGIAO, MATRICULA  
+ID_CLIENTE,NOME,REGIAO,MATRICULA  
 201,Mariana Lima,Sudeste,102
 202,Pedro Alves,Sul,101
 203,Ana Rocha,Nordeste,103
@@ -8,3 +8,54 @@ ID_CLIENTE, NOME, REGIAO, MATRICULA
 207,Bryan O'brien,Norte,112
 208,Karla Lima,Sudeste,106
 209,Felipe da Silva,Nordeste,102
+210,Larissa Souza,Sudeste,102
+211,Thiago Mendes,Sul,101
+212,Camila Barreto,Nordeste,103
+213,Lucas Ferreira,Sul,106
+214,Aline Costa,Sul,106
+215,Victor Hugo,Nordeste,124
+216,Emily Torres,Norte,112
+217,Renan Oliveira,Sudeste,106
+218,Fabiana Martins,Nordeste,102
+219,Rafael Monteiro,Nordeste,103
+220,Isabela Ramos,Sul,102
+221,Gustavo Almeida,Nordeste,101
+222,Sofia Nascimento,Sudeste,103
+223,Bruno Costa,Sul,106
+224,Luana Martins,Norte,112
+225,Ricardo Souza,Nordeste,124
+226,Ana Clara Pereira,Sudeste,102
+227,Marcelo Dias,Sul,106
+228,Julia Fernandes,Nordeste,103
+229,André Carvalho,Sudeste,101
+230,Maria Eduarda Lima,Sudeste,106
+231,Caio Henrique Silva,Sul,101
+232,Mariana Figueiredo,Nordeste,102
+233,Pedro Henrique Costa,Norte,112
+234,Letícia Alves,Sul,124
+235,Fernando Oliveira,Sudeste,103
+236,Aline Souza,Sul,106
+237,Thiago Rodrigues,Nordeste,102
+238,Luiza Martins,Sudeste,101
+239,Bruna Santos,Sul,124
+240,Paula Ribeiro,Sul,106
+241,Diego Fernandes,Sudeste,101
+242,Samantha Gomes,Nordeste,102
+243,Rafael Moreira,Norte,112
+244,Carla Lopes,Sul,124
+245,Bruno Santos,Sudeste,103
+246,Renata Alves,Sul,106
+247,Gustavo Pereira,Nordeste,102
+248,Marina Oliveira,Sudeste,101
+249,Fabio Carvalho,Sul,124
+250,Lucas Fernandes,Sul,106
+251,Ana Paula Mendes,Sudeste,101
+252,Thiago Almeida,Nordeste,102
+253,Mariana Costa,Norte,112
+254,Felipe Oliveira,Sul,124
+255,Carolina Rodrigues,Sudeste,103
+256,Pedro Santos,Sul,106
+257,Julia Lima,Nordeste,102
+258,André Moreira,Sudeste,101
+259,Renata Silva,Sul,124
+260,Vinicius Pereira,Nordeste,106
