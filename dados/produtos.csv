@@ -21,7 +21,7 @@ ID_PRODUTO,NOME,MARCA,CATEGORIA,DATA_CADASTRO,DESCRICAO_PRODUTO,PRECO,ESTOQUE
 20,Placa de Vídeo RTX 3060,NVIDIA,Hardware,2023-02-28,Placa de vídeo para jogos e edição,4799.00,7
 21,Smartphone Pixel 6,Google,Celular,2022-01-15,Smartphone com câmera avançada e Android puro,3799.00,40
 22,Notebook Dell XPS 13,Dell,Notebook,2023-04-10,Notebook ultrafino com processador Intel i7,7899.00,12
-23,Monitor Ultrawide 34",LG,Monitor,2021-08-22,Monitor ultrawide para produtividade e games,3299.90,25
+23,"Monitor Ultrawide 34""",LG,Monitor,2021-08-22,Monitor ultrawide para produtividade e games,3299.90,25
 24,Mouse Gamer Razer DeathAdder,Razer,Periférico,2022-03-14,Mouse gamer com alta precisão e RGB,499.90,50
 25,Teclado Mecânico Logitech G512,Logitech,Periférico,2020-12-01,Teclado mecânico com switches Romer-G,799.00,35
 26,Fone Bluetooth AirPods Pro,Apple,Audio,2021-07-20,Fones sem fio com cancelamento de ruído,1799.00,28
